@@ -11,5 +11,4 @@ const urls = [
 	'https://zh.surveymonkey.com/r/XC5Q2T9',
 	'https://zh.surveymonkey.com/r/XCPRBWV',
 	'https://zh.surveymonkey.com/r/3CDCXVN',
-	'https://zh.surveymonkey.com/r/3CDNTMW',
 ];
